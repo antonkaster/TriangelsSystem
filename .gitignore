@@ -1,0 +1,9 @@
+# JetBrains IDE
+.idea/
+
+# C# build artifacts
+bin/
+obj/
+
+# NuGet
+.nuget/
